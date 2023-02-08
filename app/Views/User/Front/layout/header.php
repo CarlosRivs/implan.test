@@ -13,8 +13,7 @@
         src="https://use.fontawesome.com/releases/v6.1.0/js/all.js"
         crossorigin="anonymous"></script>
     <!-- Core theme CSS (includes Bootstrap)-->
-    <link href="css/styles.css" rel="stylesheet" />
-    <link href="css/stylePRO.css" rel="stylesheet" />
+  
     <!-- Google fonts-->
     <link
         href="https://fonts.googleapis.com/css?family=Montserrat:400,700"
