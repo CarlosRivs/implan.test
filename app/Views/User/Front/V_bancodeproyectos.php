@@ -383,12 +383,12 @@
                                     <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!</p>
                                     <ul class="list-inline">
                                         <li>
-                                            <strong>DATOS:</strong>
-                                            datos
+                                            <strong>Lugar: Av. Diego Hurtado – Frente al Mercado.</strong>
+                                        
                                         </li>
                                         <li>
-                                            <strong>DATOS:</strong>
-                                            datos
+                                            <strong>Descripción: Red de drenaje y pavimentación.
+</strong>   
                                         </li>
                                     </ul>
                                     <button class="btn btn-primary btn-xl text-uppercase" data-bs-dismiss="modal" type="button">
@@ -557,13 +557,13 @@
                                     <img class="img-fluid d-block mx-auto" src="assets/img/obras/obr3.jpg" alt="..." />
                                     <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!</p>
                                     <ul class="list-inline">
-                                        <li>
-                                            <strong>DATOS:</strong>
-                                            datos
+                                    <li>
+                                            <strong>Lugar: Av. Diego Hurtado – Frente al Mercado.</strong>
+                                        
                                         </li>
                                         <li>
-                                            <strong>DATOS:</strong>
-                                            datos
+                                            <strong>Descripción: Red de drenaje y pavimentación.
+</strong>   
                                         </li>
                                     </ul>
                                     <button class="btn btn-primary btn-xl text-uppercase" data-bs-dismiss="modal" type="button">
